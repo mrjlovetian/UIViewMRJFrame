@@ -1,0 +1,16 @@
+PODS:
+  - UIViewMRJFrame (0.1.0)
+
+DEPENDENCIES:
+  - UIViewMRJFrame (from `../`)
+
+EXTERNAL SOURCES:
+  UIViewMRJFrame:
+    :path: ../
+
+SPEC CHECKSUMS:
+  UIViewMRJFrame: f8729d0d44fa4ca9ac34055dcc30a812ab91cf1b
+
+PODFILE CHECKSUM: b557c41037603bb60f71fe318d972de479bf76cb
+
+COCOAPODS: 1.3.1
