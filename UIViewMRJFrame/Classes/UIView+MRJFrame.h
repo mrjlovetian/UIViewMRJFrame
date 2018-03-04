@@ -8,11 +8,10 @@
 #import <UIKit/UIKit.h>
 
 @interface UIView (MRJFra)
-// shortcuts for frame properties
+
 @property (nonatomic, assign) CGPoint origin;
 @property (nonatomic, assign) CGSize size;
 
-// shortcuts for positions
 @property (nonatomic) CGFloat centerX;
 @property (nonatomic) CGFloat centerY;
 
@@ -24,4 +23,5 @@
 
 @property (nonatomic) CGFloat width;
 @property (nonatomic) CGFloat height;
+
 @end

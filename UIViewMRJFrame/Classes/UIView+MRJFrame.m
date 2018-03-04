@@ -8,6 +8,7 @@
 #import "UIView+MRJFrame.h"
 
 @implementation UIView (MRJFra)
+
 #pragma mark - Shortcuts for the coords
 
 - (CGFloat)top {
@@ -91,6 +92,7 @@
     frame.size = size;
     self.frame = frame;
 }
+
 #pragma mark - Shortcuts for positions
 
 - (CGFloat)centerX {
