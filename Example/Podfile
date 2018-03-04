@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'UIViewMRJFrame_Example' do
+  pod 'UIViewMRJFrame', :path => '../'
+
+  target 'UIViewMRJFrame_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
