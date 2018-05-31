@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UIViewMRJFrame'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = '布局使用的坐标类'
 
 # This description is used to generate tags and improve search results.
